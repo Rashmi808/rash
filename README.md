@@ -1,4 +1,4 @@
-project title: Social Media Sentimental Analysis.
+Project Title: Social Media Sentimental Analysis.
 
 Team code: Team 21
 
